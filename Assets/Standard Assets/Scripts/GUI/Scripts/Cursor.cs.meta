@@ -1,0 +1,8 @@
+fileFormatVersion: 2
+guid: 3340b420884658044acf8411d8984b50
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cursorTexture: {fileID: 2800000, guid: c10c75d2ec4d4b340817a2796b8bb587, type: 1}
+  executionOrder: 0
+  icon: {instanceID: 0}
